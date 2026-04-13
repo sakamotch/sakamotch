@@ -64,12 +64,15 @@ First external OSS contribution: an approved PyMuPDF pull request fixing a rende
 
 ## GitHub
 
+Public GitHub stats are only a small slice of my work.  
+I use this space for open-source activity and public-facing engineering traces.
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sakamotch&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=sakamotch&theme=radical&hide_border=true" alt="GitHub streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakamotch&theme=radical" alt="GitHub profile summary" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakamotch&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
+<img height="170" src="https://streak-stats.demolab.com?user=sakamotch&theme=radical&hide_border=true" alt="GitHub streak" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakamotch&theme=radical" alt="Repositories per language" />
 
 </div>
 
