@@ -51,11 +51,11 @@ quality    ruff, mypy, pytest, vitest, eslint, typecheck-first habits
 
 ## Open Source
 
-First external OSS contribution: an approved PyMuPDF pull request fixing a rendering metadata bug.
+First external OSS contribution: a merged PyMuPDF pull request fixing a rendering metadata bug.
 
 <p>
   <a href="https://github.com/pymupdf/PyMuPDF/pull/4955">
-    <img src="https://img.shields.io/badge/OSS%20PR-Approved-2EA44F?style=for-the-badge&logo=github" alt="Approved OSS pull request" />
+    <img src="https://img.shields.io/badge/OSS%20PR-Merged-8957E5?style=for-the-badge&logo=github" alt="Merged OSS pull request" />
   </a>
   <a href="https://github.com/pymupdf/PyMuPDF/issues/4954">
     <img src="https://img.shields.io/badge/Bug%20Report-Reproduced-00D1FF?style=for-the-badge&logo=github" alt="OSS bug report" />
